@@ -1,1 +1,1 @@
-# monster-slayer
+# Monster-Slayer Vue Course Mini-Project
